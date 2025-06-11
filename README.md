@@ -259,4 +259,3 @@ plt.imshow(im3, cmap='gray')
 plt.axis('off')
 plt.title('Butterworth Lowpass Filtered Image')
 plt.show()
-
